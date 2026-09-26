@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+dist/
+build/
+local_db.json
+*.log
+.DS_Store
